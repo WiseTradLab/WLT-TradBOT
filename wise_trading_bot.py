@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-TOKEN = "TON_NOUVEAU_TOKEN_ICI"
+TOKEN = "8631861919:AAFcQC1H1dSL-jCgDcPHLWa000qdqgrpR4U"
 
 PIP_VALUES = {
     "EURUSD": 10,
